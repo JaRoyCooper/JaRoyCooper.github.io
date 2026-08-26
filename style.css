@@ -121,7 +121,7 @@ h3 {
 }
 
 #portfolio a:hover {
-  background: #000;
+  background: #fdfafa;
   color: #fff;
   transform: translateX(4px);
 }
