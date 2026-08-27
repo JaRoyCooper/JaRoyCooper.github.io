@@ -45,12 +45,12 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #ffff;
 }
 
 /* main container area beneath menu */
 main {
-  background: rgb(9, 21, 64);
+  background: rgb(46, 56, 92);
   display: flex;
   margin-top: 20px;
 }
@@ -71,7 +71,7 @@ main {
 
 /* interests section styles */
 #interests {
-  border: 4px rgb(0, 0, 0) ridge;
+  border: 4px rgb(255, 255, 255) ridge;
   padding: 8px;
   margin-top: 20px;
 }
@@ -98,7 +98,7 @@ h3 {
 
 #portfolio li {
   border-radius: 12px;
-  color: #fff;
+  color: #ffff;
   overflow: hidden;
 }
 
@@ -107,7 +107,7 @@ h3 {
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
-  color: #fbfbfb;
+  color: #ffff;
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
